@@ -1,7 +1,7 @@
-D G "__PCM__" 0 51 ""5.025""
-D G "__DEVICE__" 0 51 "877"
-D G "__DATE__" 0 51 ""12-Oct-17""
-D G "__TIME__" 0 51 ""09:56:51"" "Standard Header file for the PIC16F877A device ////////////////"
+D G "__PCM__" 0 58 ""5.025""
+D G "__DEVICE__" 0 58 "877"
+D G "__DATE__" 0 58 ""12-Oct-17""
+D G "__TIME__" 0 58 ""10:06:39"" "Standard Header file for the PIC16F877A device ////////////////"
 c L "set_tris_a" 2 3 6 "FUNCTION"
 v L "value" 2 37 "int8" `54 
 f B "set_tris_a" 2 37 "void(int8 value)" `53 
